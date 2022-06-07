@@ -6,7 +6,7 @@
 <h6>Restaurant Landing Page<h6/>
 
 <h2>Link to site</h2>
-<p>https://organik.netlify.app//<p/>
+<p>https://organik.netlify.app<p/>
 
 <h2>General Information</h2>
 <ul>
